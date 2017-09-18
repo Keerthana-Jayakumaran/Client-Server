@@ -25,6 +25,7 @@ Design:
 3. REST API:
 4. Server Implementation :Node Js
 5. Front end: Html
+6.Storage: using data structures
 
 
 
