@@ -22,7 +22,7 @@ Payload Requirement:
 Design:
 1. Protocol: Http (between server and events generating machines).
 2. Connection : websocket connection (between the client and server for automatic updation)
-3. API:
+3. REST API:
 4. Server Implementation :Node Js
 5. Front end: Html
 
